@@ -15,3 +15,5 @@ Use formidable to parse the uploaded png file.
 3. router.js: if pathname exists, pass req and res to handler.
 
 4. requestHandlers.js: handle the request accordingly.
+
+[*Node for beginners*](http://www.nodebeginner.org//).
